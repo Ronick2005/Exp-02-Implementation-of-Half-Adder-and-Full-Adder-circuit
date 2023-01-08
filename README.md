@@ -46,9 +46,13 @@ RTL realization
 
 ### Output:
 ### RTL
+![](half_adder_rtl.png)
+![](full_adder_rtl.png)
 ### TIMING DIAGRAM
-
-
+![](half_adder_timingdiag.png)
+![](full_adder_timingdiag.png)
 ### TRUTH TABLE 
-
+![](half_adder_truthtable.png)
+![](full_adder_truthtable.png)
 ### Result:
+Thus implementation of half adder and full adder circuit are verified
